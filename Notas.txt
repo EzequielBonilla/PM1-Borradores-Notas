@@ -1,0 +1,12 @@
+-ECMA: European Computer Manufacturers Association
+
+-Creación de estandares para la comunicación y la información
+
+- se encarga de definir las reglas que rigen la informacion que consumimos mediante estándares creados y actualizados por la asociación
+
+- ECMAScript es el estándar base para varios lenguajes, entre ellos JavaScript. Define como funciona y establece reglas y funcionalidades.
+
+
+---------------------------------------------------------
+
+- let y con son declaraciones de variables que mejoraron la seguridad y previsibilidad de la gestión de datos
