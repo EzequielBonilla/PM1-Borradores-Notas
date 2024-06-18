@@ -13,3 +13,6 @@
 
 - Scope de una variable. Si se declara fuera de bloques o funciones, se convierte en una variable global, y se puede acceder a lo largo de todo el programa. Si se declara dentro de una funcion o bloque, solo es accesible dentro del mismo/a
 
+- var tiene scope de funcion o global, pero no de bloque, por lo que solo se toma local si está adentro de una función.
+
+

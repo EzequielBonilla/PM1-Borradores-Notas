@@ -24,10 +24,29 @@
 // //const se utiliza para declarar variables que no pueden mutar, que sen "constantes"
 
 
-var a="declarada con var";
-var a="redeclarar variable";
+// var a="declarada con var";
+// var a="redeclarar variable";
+// console.log(a);
+
+
+// let b="declarada con let";
+// let b= "redeclarar variable";
+
+// const c="declarada con const";
+// const c="redeclarar variable";
+
+// var a = 15;
+
+// if(true) {
+//     console.log(a);
+//     var b=25;
+// }
+
+// console.log(b);
+
+{
+    let a=15;
+    console.log(a);
+}
+
 console.log(a);
-
-
-let b="declarada con let";
-const c="declarada con const";
