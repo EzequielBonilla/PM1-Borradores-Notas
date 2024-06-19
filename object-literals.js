@@ -24,11 +24,7 @@
 ////////////////////////////////////////////////////////
 
 function unaCualquiera(nombre, apellido, edad) {
-    const persona = {
-        nombre,
-        apellido,
-        edad,
-    };
-return persona
-};
+  const persona = { nombre, apellido, edad };
+  return persona;
+}
 console.log(unaCualquiera("ezequiel", "bonilla", "32"));
