@@ -1,0 +1,12 @@
+Object Literals es la nueva forma de crear objectos.
+
+brinda facilidades en comparación a la forma anteriro
+
+- si el valor de una propiedad corresponde a una variable de mismo nombre, se puede simplificar
+
+- en un objeto se puede crear una propiedad dinamica cuyo nombre puede definirse y cambiar en tiempo de ejecución.
+(asignarPropDinamica(clave valor){
+    this[clave] = valor;
+})
+
+- esto ultimo permite crear propiedades de manera distinta al dot.notation.

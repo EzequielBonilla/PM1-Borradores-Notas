@@ -44,9 +44,21 @@
 
 // console.log(b);
 
-{
-    let a=15;
-    console.log(a);
-}
+// {
+//     let a=15;
+//     console.log(a);
 
-console.log(a);
+// }
+
+// {
+//     for(let i=0; i<5; i++) {
+//         let a=10;
+//         console.log(a);
+//     }
+// }
+// // console.log(a);
+
+
+const palabras =["hola", "chau"];
+
+palabras = 10;

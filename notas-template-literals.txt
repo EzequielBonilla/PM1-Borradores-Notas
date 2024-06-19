@@ -1,0 +1,8 @@
+-también conocido como template strings. permite insertar expresiones de codigo en el string de manera limpia para concatenar su valor.
+-para el template se debe usar backsticks, que en teclado argentino es altGr+} dos veces o alt+96.
+ para insertarlo se usa ${}
+
+ -tambien están als scape sequences, que sirve para representar caracteres especiales como salto de linea o tabulación.
+  \n o \t  (la bara invertida es altgr+?)
+
+  

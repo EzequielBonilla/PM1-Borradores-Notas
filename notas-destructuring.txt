@@ -1,0 +1,10 @@
+- el destructuring permite "desempaquetar" o "extraer" todas esas propiedades para así poder acceder a ellas de manera más sencilla.
+
+- me ayuda por ejemplo a no tener que declarar variables para cada propiedad del objeto cada vez que quiera usar una.
+ tambien a evitar la repeticion de la propiedad con dot.notation.
+
+ -en cuanto a arrays se va a utilizar cuando el array sea pequeño y sepamos exactamente su contenido.
+  esto se debe a que solo podemos usar la posición del arreglo para identificar los valores del mismo.
+
+  - tambien se puede uitilizar en funciones cuando le damos un objeto por parametrop
+  

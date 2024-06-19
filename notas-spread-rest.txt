@@ -1,0 +1,6 @@
+- es un operador que se simboliza como {...} o [...] .
+  si va antes crea una copia de un objeto (Spread) (lo propaga)
+    
+- si pongo obj2 = obj solo crea una referencia al original
+
+- recordar que no es lo mismo hablar de un objeto/arreglo que del contenido del objeto/arreglo

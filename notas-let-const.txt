@@ -15,4 +15,15 @@
 
 - var tiene scope de funcion o global, pero no de bloque, por lo que solo se toma local si está adentro de una función.
 
+- let se limitan a defir variables en el bloque donde se encuentran
 
+- const declara constantes, que no pueden ser reasignadas
+
+-------------------------------------------------------------------
+
+Hoisting
+
+las declaraciones de las variables y funciones son "movidas" al inicio de su contexto de ejecución durante la fase de compilación, antes de que el código se ejecute
+
+var es movida hacia arriba, osea existe pero queda indefinida (ej: c.log var= c.log).
+en cambio, let y const no pueden accederse antes de su declaración.
