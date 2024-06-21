@@ -1,0 +1,3 @@
+span vs p?
+alt + click escribir a la ves en distintas lineas
+cambiar imput divs por form
