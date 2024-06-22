@@ -1,0 +1,29 @@
+podemos definir a una clase como una plantilla que se utiliza para la creación de objetos definidos a partir de una misma estructura base.
+Los objetos que provienen de dicha plantilla se conocen como instancias de clase (objetos).
+
+Cada clase es una abstracción que define un conjunto de atributos y métodos que la componen
+
+El  encapsulamiento  en es el principio de ocultar los detalles internos de la implementación de un objeto,
+exponiendo solo las interfaces necesarias para interactuar con él.
+
+La  herencia  es un principio que le permite a una clase derivar propiedades y métodos de otra clase,
+promoviendo la reutilización de código y la jerarquía en la estructuración de clases.
+se utiliza extends, heredando propiedades y metodos
+
+El  polimorfismo  es una capacidad que permite que objetos de diferentes clases respondan a métodos con el mismo nombre,
+cada uno según su propia implementación.
+
+La  abstracción  es el proceso de ocultar los detalles complejos de la implementación y
+exponer solo las características esenciales y las funcionalidades de un objeto.
+
+no necesarioamente todas las propiedades van a ser inicializadas al momento de instanciar.
+puede tener una vacia (ejemplo, array de amigos por defecto vacio)
+
+El constructor es un método especial dentro de una clase que se ejecuta automáticamente al crear un objeto de esa clase. 
+Este método establece las propiedades iniciales del objeto basándose en los argumentos que recibe. 
+
+Los métodos son funciones definidas dentro de una clase que describen las acciones o comportamientos de los objetos creados a partir de esa clase. 
+
+Una instancia es un objeto específico creado a partir de una clase.
+Cuando se utiliza el constructor de una clase para crear un nuevo objeto, ese objeto es una instancia de esa clase
+debo usar new y pasar los argumentos requeridos por la clase

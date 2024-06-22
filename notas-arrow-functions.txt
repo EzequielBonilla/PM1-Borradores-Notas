@@ -1,0 +1,12 @@
+    funciones con sintaxis simplificada.
+    diferente manejo de contexto con this, a diferencia de las funciones tradicionales
+
+    si es una sola linea de funcion y es return, se puede obviar el return y poner todo en una linea sin llaves.
+    otorga facilidad para trabajar con funciones callbacks
+
+    this en funcion tradicional se define al ejecutarse
+    this en la funcion flecha se define al momento de definirse la funcion.
+
+    this en AF mantiene el valor del ambito circundante evitando problemas de cambio de contexto
+    y evita problemas de herencia
+    
