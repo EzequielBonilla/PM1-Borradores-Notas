@@ -27,3 +27,5 @@ Los métodos son funciones definidas dentro de una clase que describen las accio
 Una instancia es un objeto específico creado a partir de una clase.
 Cuando se utiliza el constructor de una clase para crear un nuevo objeto, ese objeto es una instancia de esa clase
 debo usar new y pasar los argumentos requeridos por la clase
+
+recomendacion de dan, conviene crear las clases en archivos diferentes
