@@ -1,0 +1,9 @@
+ El DOM es una representación estructurada de una página web.
+el CSSOM que es un modelo que representa los estilos asociados al DOM.
+
+ creación del Render Tree, el cual es una combinación del DOM y el CSSOM 
+ que se enfoca únicamente en aquellos elementos del documento HTML que son visibles en la página. 
+
+ El layout de una página determina el tamaño del dispositivo de salida (viewport)
+ dando así contexto a los estilos que dependen de él.
+  El layout es el cálculo de las posiciones y tamaños de los elementos en la página.
